@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHarjoitus", "GitHarjoitus\GitHarjoitus.csproj", "{43C08EA0-9265-4B38-BEB9-32BA958F860F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C08EA0-9265-4B38-BEB9-32BA958F860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C08EA0-9265-4B38-BEB9-32BA958F860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C08EA0-9265-4B38-BEB9-32BA958F860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C08EA0-9265-4B38-BEB9-32BA958F860F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61900928-63BC-474F-9C0B-2BFD43CD4F21}
+	EndGlobalSection
+EndGlobal
