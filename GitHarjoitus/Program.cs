@@ -12,6 +12,7 @@ namespace GitHarjoitus
         {
             Console.WriteLine(1+1);
             Console.WriteLine(2+3);
+            Console.WriteLine("Toimii tässä versiossa!");
         }
     }
 }
